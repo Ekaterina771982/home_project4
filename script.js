@@ -1,0 +1,5 @@
+import{greet} from "./modules/nameGreet.js"
+import {concatStrings} from "./modules/concat.js"
+import {calculateAverage} from "./modules/calculate.js"
+import {calculateFallDistance} from "./modules/FallDist.js"
+import {celsiusToFahrenheit} from "./modules/celsius.js"
